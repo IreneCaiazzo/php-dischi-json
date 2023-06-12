@@ -15,7 +15,19 @@
 <body>
 
     <div id="app">
-        <span> {{message.albumName}} </span>
+        <div class="container">
+            <ul v-for="disc in discs">
+                <li><img :src="disc.albumCover" alt=""></li>
+                <li><span>{{ disc.albumName }}</span></li>
+                <li><span>{{ disc.artistName }}</span></li>
+                <li><span>{{ disc.albumYear }}</span></li>
+            </ul>
+
+
+
+
+
+        </div>
     </div>
 
 </body>
