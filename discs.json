@@ -1,3 +1,38 @@
-{
-    "albumName": "questo è il contenuto di json"
-}
+[
+    {
+        "albumName": "A quiet place - Colonna sonora",
+        "artistName": "A quiet place",
+        "albumYear": "2010",
+        "albumCover": "img/aquietplace.jpeg"
+    },
+    {
+        "albumName": "Divenire",
+        "artistName": "Ludovico Einaudi",
+        "albumYear": "2006",
+        "albumCover": "img/einaudi.jpeg"
+    },
+    {
+        "albumName": "Master of puppets",
+        "artistName": "Metallica",
+        "albumYear": "1986",
+        "albumCover": "img/metal_lifting.jpg"
+    },
+    {
+        "albumName": "Sinister - Colonna sonora",
+        "artistName": "Sinister",
+        "albumYear": "2013",
+        "albumCover": "img/sinister.jpeg"
+    },
+    {
+        "albumName": "Stranger things - Colonna sonora",
+        "artistName": "Stranger things",
+        "albumYear": "2015",
+        "albumCover": "img/stranger.jpeg"
+    },
+    {
+        "albumName": "The Great Gatsby: Music from Baz Luhrmann's Film",
+        "artistName": "Lana Del Rey",
+        "albumYear": "2013",
+        "albumCover": "img/young.jpeg"
+    }
+]
